@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Creational\Sin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "Creational\AbstractFactory\AbstractFactory.csproj", "{B99847FD-AD26-4EFF-BB73-A3FC3A74EFBB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{C037936A-9D0F-4B4B-8E5A-8B7536183003}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{F8DBA779-D3DF-4ED7-9F29-16C52432885B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,8 +28,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{A8A3431B-0C47-4BD8-8E47-797D11B59D10} = {C037936A-9D0F-4B4B-8E5A-8B7536183003}
-		{B99847FD-AD26-4EFF-BB73-A3FC3A74EFBB} = {C037936A-9D0F-4B4B-8E5A-8B7536183003}
+		{A8A3431B-0C47-4BD8-8E47-797D11B59D10} = {F8DBA779-D3DF-4ED7-9F29-16C52432885B}
+		{B99847FD-AD26-4EFF-BB73-A3FC3A74EFBB} = {F8DBA779-D3DF-4ED7-9F29-16C52432885B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {314C01C9-2235-42C7-B4E1-DB9DFC1E9F3E}
